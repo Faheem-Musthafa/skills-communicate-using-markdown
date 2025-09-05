@@ -6,3 +6,7 @@
 ###### This is an H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/godotocat.png)
+
+```
+const sayHello = () => "Hello World";
+```
